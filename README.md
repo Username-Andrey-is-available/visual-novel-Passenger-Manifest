@@ -1,1 +1,19 @@
-# visual-novel-Passenger-Manifest
+Каждую неделю ты умираешь.
+Каждую неделю ты возвращаешься.
+
+Эван, архивист на борту ISV Aurora. Рейс идёт по плану… пока корабль не падает в сингулярность. И снова. И снова.
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f12bb020-386c-430d-9a0c-e13e5a904f4b" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/1821386f-dd5c-4347-94d3-d09591d2131a" />
+
+
+*История меняется.*
+
+Собирай улики. Ломай причинность. Убеждай экипаж, пока они ещё тебе верят.
+
+Один манифест. Шесть недель.
+И только одна попытка всё изменить.
+
+##### Passenger Manifest — правда не переживает каждую петлю.
+
+*coming soon*
